@@ -8,8 +8,6 @@ This project is a backend application for tracking real-time prices of selected 
 
 - Node.js
 - npm
-- MongoDB
-
 
 ## Getting Started
 
@@ -18,7 +16,7 @@ First, run the development server:
 ```bash
 
 #check into backend folder
-cd backend
+cd crypto-tracking-backend
 
 #run the command to install dependencies
 npm install
